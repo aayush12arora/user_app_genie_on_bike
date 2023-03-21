@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "130187652547",
+    "project_id": "genie-on-bike-c0cc5",
+    "storage_bucket": "genie-on-bike-c0cc5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130187652547:android:8b3a42ebd624b84d9da176",
+        "android_client_info": {
+          "package_name": "driver.genieonbike.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130187652547-4narq5hkh7985qhtkm62saa42t8nb1nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2M8jGlmmtAtv5wd3D9Y1XHCh63pGhIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130187652547-4narq5hkh7985qhtkm62saa42t8nb1nl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130187652547-0lrrvu2j9ud2cl23bjulgq2a0srvjilp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.genieonbike.com"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:130187652547:android:49cf6c4ccdeb7be99da176",
+        "android_client_info": {
+          "package_name": "user.genieonbike.com"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "130187652547-nglk8efq5hon1vvl9hqb5mfedqjcfsrj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "user.genieonbike.com",
+            "certificate_hash": "3962a89db116dc6d164f1f8022937cd505a90e3f"
+          }
+        },
+        {
+          "client_id": "130187652547-4narq5hkh7985qhtkm62saa42t8nb1nl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2M8jGlmmtAtv5wd3D9Y1XHCh63pGhIo0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "130187652547-4narq5hkh7985qhtkm62saa42t8nb1nl.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "130187652547-0lrrvu2j9ud2cl23bjulgq2a0srvjilp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "driver.genieonbike.com"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

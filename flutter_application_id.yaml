@@ -1,0 +1,7 @@
+flutter_application_id:
+  android:
+    id: "user.genieonbike.com"
+    name: "Genie on Bike"
+  ios:
+    id: "user.genieonbike.com"
+    name: "Genie on Bike"
